@@ -1,1 +1,3 @@
-# Primeiros Docker Files
+# First Steps with Dockerfile
+
+Learning about dockerfile.
